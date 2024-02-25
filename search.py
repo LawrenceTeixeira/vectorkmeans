@@ -56,7 +56,7 @@ def main():
     with st.sidebar:
         st.image("https://miro.medium.com/v2/resize:fit:640/format:webp/1*BeqIgJHWNjBwIAjuUKQrig.png ")           
         ""
-        "[Leveraging KMeans Compute Node for Text Similarity Analysis through Vector Search in Azure SQL](https://lawrence.eti.br/2023/11/25/navigating-vector-operations-in-azure-sql-for-better-data-insights-a-guide-how-to-use-generative-ai-to-prompt-queries-in-datasets/)"
+        "[Leveraging KMeans Compute Node for Text Similarity Analysis through Vector Search in Azure SQL](https://lawrence.eti.br/2024/02/25/leveraging-kmeans-compute-node-for-text-similarity-analysis-through-vector-search-in-azure-sql/)"
         "Combining vector databases with KMeans clustering revolutionizes the way applications suggest similar items, efficiently grouping and identifying related content, products, or articles. This powerful synergy enhances recommendation systems, offering personalized user experiences by leveraging the nuanced similarities within high-dimensional data."
         ""
         ""
